@@ -2,7 +2,7 @@
 <img src="https://www.nerdsshop.us/blog/wp-content/uploads/2018/06/windows-files-folders.jpg"/>
 </p>
 
-<h1>Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Network File Shares and Permissions (Azure)</h1>
 Brief outline of creating file sharing with various permissions.<br />
 
 
